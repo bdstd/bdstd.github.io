@@ -2,7 +2,7 @@
 	<result value="OK" />
 	<username value="Not Found!" />
 	<licenseemail value="Not Found!" />
-	<expiretime value="1970/01/01 00:00:00" />
+	<expiretime value="2999/01/01 00:00:00" />
 </license>
 <urls>
 	<homepageurl value="https://www.ccboot.com/?ref=prog" />
