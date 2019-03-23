@@ -2,7 +2,7 @@
 	<result value="" />
 	<username value="" />
 	<licenseemail value="" />
-	<expiretime value="2999/12/31 23:59:00" />
+	<expiretime value="2999/12/31 23:59:59" />
 </license>
 <urls>
 	<homepageurl value="https://www.ccboot.com/?ref=prog" />
