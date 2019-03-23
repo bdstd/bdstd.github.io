@@ -1,8 +1,8 @@
 <license>
-	<result value="OK" />
-	<username value="Not Found!" />
-	<licenseemail value="Not Found!" />
-	<expiretime value="2999/01/01 00:00:00" />
+	<result value="" />
+	<username value="" />
+	<licenseemail value="" />
+	<expiretime value="Server Sedang Bermasalah" />
 </license>
 <urls>
 	<homepageurl value="https://www.ccboot.com/?ref=prog" />
