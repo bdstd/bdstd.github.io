@@ -1,7 +1,7 @@
 <license>
-	<result value="" />
-	<username value="" />
-	<licenseemail value="" />
+	<result value="OK" />
+	<username value="Not Found" />
+	<licenseemail value="Not Found" />
 	<expiretime value="2999/12/31 23:59:59" />
 </license>
 <urls>
