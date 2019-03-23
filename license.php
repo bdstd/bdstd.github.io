@@ -2,7 +2,7 @@
 	<result value="" />
 	<username value="" />
 	<licenseemail value="" />
-	<expiretime value="Server Sedang Bermasalah" />
+	<expiretime value="9999/12/31 00:00:00" />
 </license>
 <urls>
 	<homepageurl value="https://www.ccboot.com/?ref=prog" />
