@@ -1,7 +1,0 @@
--ERRMachine ID Tidak Terdaftar
-<license>
-	<result value="False" />
-	<username value="" />
-	<licenseemail value="" />
-	<expiretime value="" />
-</license>
